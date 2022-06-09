@@ -1,5 +1,7 @@
 # learn fastapi
 
+## setup 
+
 1. Create a github repository.
 
 2. Create a folder `learn_fastapi` on the local computer
@@ -21,7 +23,18 @@
 5. activate the vir env 
 `source venv/bin/activate`
 
-6. install packages numpy, matplotlib, seaborn, pandas, fastapi, uvicorn
+6. install packages numpy, matplotlib, seaborn, pandas, fastapi, uvicorn 
 
+7. create list of package `pip freeze >> requirements.txt`
+
+
+## code 
+
+learn fastapi
+    1. [video][1]
+    2. 
+
+
+[1]: https://www.youtube.com/watch?v=tLKKmouUams&t=2477s
 
 
