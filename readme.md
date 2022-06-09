@@ -1,1 +1,27 @@
 # learn fastapi
+
+1. Create a github repository.
+
+2. Create a folder `learn_fastapi` on the local computer
+
+3. init git
+    ```
+    echo "# xxxx" >> README.md
+    git init
+    git add README.md
+    git commit -m "first commit"
+    git branch -M main
+    git remote add origin git@github.com:Tran-Thu-Le/xxxx.git
+    git push -u origin main
+    ```
+
+4. add python3 virtual environment 
+`virtualenv venv -p python3`
+
+5. activate the vir env 
+`source venv/bin/activate`
+
+6. install packages numpy, matplotlib, seaborn, pandas, fastapi, uvicorn
+
+
+
