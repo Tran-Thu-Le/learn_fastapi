@@ -31,7 +31,8 @@
 ## code 
 
 learn fastapi
-    1. [video][1]
+
+    1. [video][1]: get post put delete
     2. 
 
 
