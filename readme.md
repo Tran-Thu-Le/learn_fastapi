@@ -31,9 +31,8 @@
 ## code 
 
 learn fastapi
-
-    1. [API][1]: get post put delete
-    2. [with html][2]
+- [API][1]: get post put delete
+- [with html][2]
 
 
 [1]: https://www.youtube.com/watch?v=tLKKmouUams&t=2477s
